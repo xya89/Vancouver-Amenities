@@ -1,4 +1,3 @@
-#CMPT353-GroupProject
 
 #The project aims to analyze location of amentities in Vancouver to predict the income of residents in certain areas.
 
